@@ -7,6 +7,7 @@ dos lados es igual al cuadrado de la hipotenusa. Encuentre todos los triples de 
 lado1, lado2, y la hipotenusa, que no sean mayores de 500. Use un ciclo for triplemente anidado 
 para probar todas las posibilidades. Este método es un ejemplo de la computación de fuerza bruta 
 
+
 Lenguaje C++
 
 #include <iostream>
